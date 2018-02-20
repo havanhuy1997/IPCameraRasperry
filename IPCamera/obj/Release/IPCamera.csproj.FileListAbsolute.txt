@@ -1,0 +1,17 @@
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\IPCamera.exe.config
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\IPCamera.exe
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\IPCamera.pdb
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\AForge.dll
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\AForge.Video.dll
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\NAudio.dll
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\VoIPSDK.dll
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\AForge.xml
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\AForge.Video.xml
+F:\Programming\C#\Project\IPCamera\IPCamera\bin\Release\NAudio.xml
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\Onvif.IP.Camera.Viewer.Form1.resources
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\IPCamera.Form2.resources
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\IPCamera.Properties.Resources.resources
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\IPCamera.csproj.GenerateResource.Cache
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\IPCamera.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\IPCamera.exe
+F:\Programming\C#\Project\IPCamera\IPCamera\obj\Release\IPCamera.pdb

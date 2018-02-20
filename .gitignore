@@ -1,0 +1,9 @@
+IPCamera/obj/Debug/*
+IPCamera/Image/*
+IPCamera/bin/Debug/*
+packages/NAudio.1.8.3/*
+IPCamera/Properties/*
+*.resx
+*.config
+packages/Onvif.IP.Camera.Viewer.11.2.0/*
+(?!.*\.cs)
